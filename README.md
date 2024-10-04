@@ -1,4 +1,4 @@
-# Gmail Summarizer Script
+# Unread Gmail Summary Bot!
 
 ## Overview
 This Python script automates the process of summarizing unread Gmail messages using the Gmail API and the OpenAI API. The summarized emails are then sent to a specified relay email address for easy review.
