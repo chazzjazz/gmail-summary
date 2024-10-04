@@ -3,6 +3,8 @@
 ## Overview
 This Python script automates the process of summarizing unread Gmail messages using the Gmail API and the OpenAI API. The summarized emails are then sent to a specified relay email address for easy review.
 
+![image](https://github.com/user-attachments/assets/5cce775e-f837-4921-bba2-2f70ed986a58)
+
 The script performs the following tasks:
 1. **Authentication**: Authenticates with Gmail via OAuth2 to access the user's inbox.
 2. **Email Retrieval**: Fetches unread emails and extracts relevant information such as sender, subject, and body content.
